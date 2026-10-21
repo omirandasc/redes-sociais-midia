@@ -1,0 +1,8 @@
+# Repositório SOMENTE de imagens públicas de posts.
+# Tudo é ignorado, exceto pastas e imagens JPEG/PNG.
+*
+!*/
+!.gitignore
+!*.jpg
+!*.jpeg
+!*.png
